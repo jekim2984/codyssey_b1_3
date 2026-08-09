@@ -194,11 +194,7 @@ Conversion notes:
 
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to 1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](1.png "image_tooltip")
-
+![스크린샷](1.png)
 
 
 ## 3. 워크플로우 흐름 설명
